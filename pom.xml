@@ -422,7 +422,7 @@
     <distributionManagement>
         <repository>
             <id>jenkins-nexus</id>
-            <url>ip-172-31-21-22.us-west-2.compute.internal:8081/repository/jenkins-nexus/</url>
+            <url>ec2-34-217-86-99.us-west-2.compute.amazonaws.com:8081/repository/jenkins-nexus/</url>
         </repository>
     </distributionManagement>
 
