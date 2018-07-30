@@ -178,11 +178,12 @@
         <dependency>
             <groupId>joda-time</groupId>
             <artifactId>joda-time</artifactId>
+            <version>3.53</version>
         </dependency>
         <dependency>
             <groupId>joda-time</groupId>
             <artifactId>joda-time-hibernate</artifactId>
-            <version>3.53</version>
+            <version>${jodatime-hibernate.version}</version>
         </dependency>
         <dependency>
             <groupId>joda-time</groupId>
